@@ -1,0 +1,25 @@
+
+* {
+  text-align: left;
+}
+.upload { 
+  display: flex;
+  justify-content: start;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.but-list {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.table-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+  
